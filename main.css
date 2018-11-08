@@ -1,0 +1,26 @@
+html{
+  background-image: linear-gradient(to bottom right, white, grey);
+  height: 100%;
+}
+
+.titulo{
+  text-align: center;
+  color: darkblue;
+  font-size: 36px;
+  font-family:sans-serif;
+
+}
+
+.subtitulo{
+  text-align: center;
+  color: blue;
+  font-size: 24px;
+  font-family:sans-serif;
+
+}
+
+main{
+  text-align: center;
+  font-size: 18px;
+  font-family:sans-serif;
+}
